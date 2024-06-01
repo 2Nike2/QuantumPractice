@@ -1,2 +1,4 @@
 qiskit==1.1.0
 matplotlib==3.9.0
+pylatexenc==2.10
+qiskit-aer==0.14.2
